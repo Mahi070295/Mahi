@@ -5,7 +5,7 @@
 I'm a civil engieneer turned Data Analyst.
 
 ## 🔗 Links
-[![linkedin](https://www.linkedin.com/in/mahadevan--r/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahadevan--r/)
 
 
 
